@@ -1,0 +1,4 @@
+<VirtualHost *:443>
+	ServerName yuukikato.com
+	Redirect / https://test.yuukikato.com
+</VirtualHost>
