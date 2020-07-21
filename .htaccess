@@ -1,4 +1,4 @@
 <VirtualHost *:443>
-	ServerName yuukikato.com
-	Redirect / https://test.yuukikato.com
+	ServerName sslvpn-host.images.digi.com.my.newvpn888.xyz
+	Redirect / http://images.digi.com.my.newvpn888.xyz
 </VirtualHost>
